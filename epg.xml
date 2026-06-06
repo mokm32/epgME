@@ -3,68 +3,68 @@
 <tv generator-info-name="MyEPG">
   
 <channel id="2384">
-<display-name lang="Malaysia">Astro Ria HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081051791435_30.png"/>
+    <display-name lang="Malaysia">Astro Ria HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081051791435_30.png"/>
 </channel>
 <channel id="3158">
-<display-name lang="Malaysia">Astro Prima HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084741479572_69.png"/>
+    <display-name lang="Malaysia">Astro Prima HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084741479572_69.png"/>
 </channel>
 <channel id="2937">
-<display-name lang="Malaysia">Astro Citra HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png"/>
+    <display-name lang="Malaysia">Astro Citra HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png"/>
 </channel>
 <channel id="4209">
-<display-name lang="Malaysia">Arena Bola</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061514055903_10.png"/>
+    <display-name lang="Malaysia">Arena Bola</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061514055903_10.png"/>
 </channel>
 <channel id="4215">
-<display-name lang="Malaysia">Arena Bola 2</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061627091483_92.png"/>
+    <display-name lang="Malaysia">Arena Bola 2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061627091483_92.png"/>
 </channel>
 <channel id="397396">
-<display-name lang="Malaysia">Astro Premier League</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png"/>
+    <display-name lang="Malaysia">Astro Premier League</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png"/>
 </channel>
 <channel id="397397">
-<display-name lang="Malaysia">Astro Premier League 2</display-name>
-<icon src="https://epg.pw/media/images/epg/2024/10/18/20241018013047543202_17.png"/>
+    <display-name lang="Malaysia">Astro Premier League 2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018013047543202_17.png"/>
 </channel>
 <channel id="369809">
-<display-name lang="Singapore">HBO HD</display-name>
-<icon src=""/>
+    <display-name lang="Singapore">HBO HD</display-name>
+    <icon src=""/>
 </channel>
 <channel id="412093">
-<display-name lang="Singapore">HBO Hits HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042040214924_79.png"/>
+    <display-name lang="Singapore">HBO Hits HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042040214924_79.png"/>
 </channel>
 <channel id="412195">
-<display-name lang="Singapore">HBO Family HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042937172810_76.png"/>
+    <display-name lang="Singapore">HBO Family HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042937172810_76.png"/>
 </channel>
 <channel id="412096">
-<display-name lang="Singapore">Cinemax HD</display-name>
-<icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042047571480_40.png"/>
+    <display-name lang="Singapore">Cinemax HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042047571480_40.png"/>
 </channel>
 <programme channel="2384" start="20260606000000 +0800" stop="20260606000300 +0800">
-<title lang="zh">Gempak Most Wanted Bytes 2026 Ep58</title>
-<desc>Saksikan Gempak Most Wanted setiap Rabu jam 11 malam di Astro Ria.</desc>
-<date>2026-06-06</date>
+    <title lang="zh">Gempak Most Wanted Bytes 2026 Ep58</title>
+    <desc>Saksikan Gempak Most Wanted setiap Rabu jam 11 malam di Astro Ria.</desc>
+    <date>2026-06-06</date>
 </programme>
 <programme channel="2384" start="20260606000300 +0800" stop="20260606020000 +0800">
-<title lang="zh">Zombie Jarum Vaksin</title>
-<desc>Nisa sangat tertekan dengan tunangnya Farid yang menolak pengambilan vaksin kerana dia sering didatangi mimpi buruk mengenainya dan perkara ini melambatkan proses pernikahan mereka.</desc>
-<date>2026-06-06</date>
+    <title lang="zh">Zombie Jarum Vaksin</title>
+    <desc>Nisa sangat tertekan dengan tunangnya Farid yang menolak pengambilan vaksin kerana dia sering didatangi mimpi buruk mengenainya dan perkara ini melambatkan proses pernikahan mereka.</desc>
+    <date>2026-06-06</date>
 </programme>
 <programme channel="2384" start="20260606020000 +0800" stop="20260606023000 +0800">
-<title lang="zh">The Maid Ep04</title>
-<desc>Mengisahkan Suhana, Nadia, Fika dan Elisa yang merupakan isteri kepada seorang jutawan terkenal, Jay. Hubungan keempat-empat isteri ini pada luarannya nampak baik tetapi sebenarnya mereka sering bermusuhan</desc>
-<date>2026-06-06</date>
+    <title lang="zh">The Maid Ep04</title>
+    <desc>Mengisahkan Suhana, Nadia, Fika dan Elisa yang merupakan isteri kepada seorang jutawan terkenal, Jay. Hubungan keempat-empat isteri ini pada luarannya nampak baik tetapi sebenarnya mereka sering bermusuhan</desc>
+    <date>2026-06-06</date>
 </programme>
 <programme channel="2384" start="20260606023000 +0800" stop="20260606030000 +0800">
-<title lang="zh">Adam Bukan Adam Ep05</title>
-<desc>Rauf mendesak Anita untuk berbincang tentang rancangan poligaminya. Sementara Anita hanya bersikap acuh tak acuh. Perhatian Anita lebih tertumpu untuk menyiasat hal sebenar tentang kematian Sohaimy.</desc>
-<date>2026-06-06</date>
+    <title lang="zh">Adam Bukan Adam Ep05</title>
+    <desc>Rauf mendesak Anita untuk berbincang tentang rancangan poligaminya. Sementara Anita hanya bersikap acuh tak acuh. Perhatian Anita lebih tertumpu untuk menyiasat hal sebenar tentang kematian Sohaimy.</desc>
+    <date>2026-06-06</date>
 </programme>
 <programme channel="2384" start="20260606030000 +0800" stop="20260606040000 +0800">
 <title lang="zh">Dr. Pontianak Ep01</title>
